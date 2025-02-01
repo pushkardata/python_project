@@ -1,5 +1,5 @@
 # Adidas Sales Analysis Project
-![Adidas Logo]()
+![Adidas Logo](https://github.com/pushkardata/python_project/blob/main/image.png)
 ---
 
 ## Project Overview
